@@ -1,0 +1,13 @@
+body { background-color: darkseagreen;}
+h1 { text-align: right;
+color: yellow;
+font-size: 40;}
+p { text-align: left;
+color: black;
+font-size: 16;}
+table, th, td {
+    border: 2px solid blue;
+  }
+  img {border-radius: 20%;
+  border: 1px dashed red;}
+.p1 {background-color: lightblue; }
